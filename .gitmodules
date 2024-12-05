@@ -1,0 +1,3 @@
+[submodule "derivora-util-kit"]
+	path = derivora-util-kit
+	url = https://github.com/MKaznacheev/derivora-util-kit.git

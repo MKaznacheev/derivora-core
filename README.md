@@ -10,6 +10,13 @@ At this stage, the project is in its initialization phase.
 
 The project will include core functionality (under development).
 
+### Modules
+
+1. Derivora Util Kit:
+    * Description: A module designed to implement fundamental programming utilities in Java. It provides a collection of reusable tools and helper classes for various applications.
+    * Purpose: As part of the Derivora project, this module offers essential utilities that can be used both internally and in other projects.
+    * Repository: [Derivora Util Kit GitHub Repository](https://github.com/MKaznacheev/derivora-util-kit.git).
+
 ## License
 
 This project is licensed under the GNU Lesser General Public License v3.0.
