@@ -34,6 +34,7 @@
 
     <modules>
         <module>derivora-util-kit</module>
+        <module>derivora-interval-kit</module>
     </modules>
 
     <properties>

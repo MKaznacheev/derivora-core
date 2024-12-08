@@ -1,3 +1,6 @@
 [submodule "derivora-util-kit"]
 	path = derivora-util-kit
 	url = https://github.com/MKaznacheev/derivora-util-kit.git
+[submodule "derivora-interval-kit"]
+	path = derivora-interval-kit
+	url = https://github.com/MKaznacheev/derivora-interval-kit.git
