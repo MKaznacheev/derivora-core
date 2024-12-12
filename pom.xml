@@ -6,7 +6,7 @@
 
     <groupId>xyz.derivora</groupId>
     <artifactId>derivora-core</artifactId>
-    <version>0.1.0</version>
+    <version>0.2.0</version>
     <packaging>pom</packaging>
     <name>Derivora Core</name>
     <description>Core module for Derivora project</description>
@@ -51,7 +51,7 @@
         <maven.javadoc.version>3.11.1</maven.javadoc.version>
         <maven.jxr.version>3.6.0</maven.jxr.version>
         <jacoco.maven.version>0.8.12</jacoco.maven.version>
-        <derivora.utilkit.version>0.1.0</derivora.utilkit.version>
+        <derivora.utilkit.version>0.2.0</derivora.utilkit.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     </properties>
