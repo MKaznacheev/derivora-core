@@ -43,6 +43,7 @@
         <maven.compiler.version>3.13.0</maven.compiler.version>
         <jupiter.version>5.11.3</jupiter.version>
         <jupiter.engine.version>5.11.3</jupiter.engine.version>
+        <jupiter.params.version>5.11.3</jupiter.params.version>
         <junit.launcher.version>1.11.3</junit.launcher.version>
         <maven.surefire.version>3.5.2</maven.surefire.version>
         <maven.site.version>4.0.0-M16</maven.site.version>
@@ -77,6 +78,12 @@
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter-engine</artifactId>
             <version>${jupiter.engine.version}</version>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter-params</artifactId>
+            <version>${jupiter.params.version}</version>
             <scope>test</scope>
         </dependency>
         <dependency>
