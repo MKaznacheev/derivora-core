@@ -6,7 +6,7 @@
 
     <groupId>xyz.derivora</groupId>
     <artifactId>derivora-core</artifactId>
-    <version>0.5.0</version>
+    <version>0.6.0</version>
     <packaging>pom</packaging>
     <name>Derivora Core</name>
     <description>Core module for Derivora project</description>
@@ -53,6 +53,7 @@
         <maven.jxr.version>3.6.0</maven.jxr.version>
         <jacoco.maven.version>0.8.12</jacoco.maven.version>
         <derivora.utilkit.version>0.5.0</derivora.utilkit.version>
+        <derivora.intervalkit.version>0.1.0</derivora.intervalkit.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     </properties>
@@ -63,6 +64,12 @@
                 <groupId>xyz.derivora</groupId>
                 <artifactId>derivora-util-kit</artifactId>
                 <version>${derivora.utilkit.version}</version>
+            </dependency>
+
+            <dependency>
+                <groupId>xyz.derivora</groupId>
+                <artifactId>derivora-interval-kit</artifactId>
+                <version>${derivora.intervalkit.version}</version>
             </dependency>
         </dependencies>
     </dependencyManagement>
